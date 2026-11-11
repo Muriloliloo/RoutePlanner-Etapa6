@@ -1,6 +1,6 @@
 # RoutePlanner - Etapa 7 - Testes JUnit
 
-Projeto de testes criado a partir do RoutePlanner da Etapa 6.
+Projeto de testes criado a partir do RoutePlanner da atividade n° 06.
 
 ## Regra testada
 Calculo do percentual de ocupacao de uma doca.
